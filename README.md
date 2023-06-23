@@ -1,2 +1,2 @@
 # portfolio-website
-Portfolio website with only HTML, CSS and JS
+Simple Portfolio website with only HTML and CSS.
